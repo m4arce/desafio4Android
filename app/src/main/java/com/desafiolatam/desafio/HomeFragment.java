@@ -19,6 +19,8 @@ import com.desafiolatam.desafio.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 
+    //prueba de cambios al proyecto DESAFIO 4
+
     private FragmentHomeBinding binding;
 
     TextView textView;
