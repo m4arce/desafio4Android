@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Desafio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="escribe_tu_contrasena">Escribe tu contraseña</string>
+    <string name="validar_contrasena">Validar Contraseña</string>
+    <string name="texto_contrasena_validacion">La contraseña debe tener al menos 5 caracteres y una letra mayúscula</string>
+    <string name="validar_contrase_a">Validar Contraseña</string>
+    <string name="escribe_la_contrase_a">Escribe la contraseña</string>
+    <string name="texto_segundo_fragmento"><![CDATA[Recuerda que para que la contraseña sea segura, debe cumplir con estas caracteristicas: \n\n\n\n\n > Al menos 5 caracteres. \n\n > Al menos una letra mayúscula. \n\n\n\n\n Otras caracteristicas que hacen las contraseñas mas seguras: \n\n > Al menos 1 caracter especial (. , % $). \n\n > Al menos 1 número]]></string>
+    <string name="validador_de_contrase_a">Validador de Contraseña</string>
+    <string name="resultado">Resultado</string>
+</resources>
